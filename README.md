@@ -18,9 +18,6 @@ RAG/
 │   ├── app.py              # Main Streamlit app
 │   ├── faiss_index/        # Saved FAISS vector store
 │   └── uploaded/           # Uploaded PDFs
-├── scraping/
-│   └── scraper.py          # Additional scraping logic
-└── scripting/              # (Optional) other scripts
 ```
 
 ---
