@@ -38,8 +38,8 @@ RAG/
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/your-username/rag-pdf-chatbot.git
-   cd rag-pdf-chatbot
+   git clone https://github.com/Shashwat1024/PDF_Chatbot.git
+   cd PDF_Chatbot
    ```
 
 2. **Create a virtual environment (optional):**
